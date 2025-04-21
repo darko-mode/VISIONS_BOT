@@ -1,4 +1,4 @@
-![Animated Background](https://i.imgur.com/ECZKmlO.gif)
+![Animated Background](https://tenor.com/view/green-gif-19530979)
 
 <h1 align="center" style="font-family: Arial, sans-serif; color: #FF6F61; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
   ALL IN ONE BOT 1.2.2
